@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <div>
-    <img alt="Logo do python com u cadeado" title="#logo" src="./.github/image/image.png" width="50"/>Gerenciador de senhas com Python
+    <img alt="Logo do python com u cadeado" title="#logo" src="https://github.com/Gelzieny/gerenciador-senhas/blob/master/.gitHub/image/image.png?raw=true" width="50"/>Gerenciador de senhas com Python
   <div>
 </h1>
 
@@ -20,9 +20,9 @@ Este projeto é um gerenciador de senhas simples desenvolvido em Python, utiliza
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="" title="#" src=".github/image/image_1.png" width="400px">
+  <img alt="" title="#" src="https://github.com/Gelzieny/gerenciador-senhas/blob/master/.gitHub/image/image_1.png?raw=true" width="400px">
 
-  <img alt="" title="#" src=".github/image/image_2.png" width="400px">
+  <img alt="" title="#" src="https://github.com/Gelzieny/gerenciador-senhas/blob/master/.gitHub/image/image_2.png?raw=true" width="400px">
 </p>
 
 ## 🔨 Funcionalidades do projeto
