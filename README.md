@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <div>
-    <img alt="Logo do python com u cadeado" title="#logo" src=".github/image/image.png" width="50"/>Gerenciador de senhas com Python
+    <img alt="Logo do python com u cadeado" title="#logo" src="./.github/image/image.png" width="50"/>Gerenciador de senhas com Python
   <div>
 </h1>
 
